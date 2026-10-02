@@ -45,3 +45,4 @@ The **Sprout Craft Cookbook** provides clear, minimal, and dependency-conscious 
 | #22 | `Node.js` | **Async Retry with Full Jitter Exponential Backoff** | [`22_retry_exponential_backoff.js`](recipes/node/22_retry_exponential_backoff.js) |
 | #23 | `Node.js` | **Timing-Safe String Comparison & HMAC Token Verification** | [`23_crypto_token_hasher.js`](recipes/node/23_crypto_token_hasher.js) |
 | #24 | `Node.js` | **Kubernetes Liveness & Readiness Health Check Endpoint** | [`24_health_check_endpoint.js`](recipes/node/24_health_check_endpoint.js) |
+| #25 | `Python` | **Python 3.11+ Structured Concurrency with asyncio.TaskGroup** | [`25_asyncio_task_group.py`](recipes/python/25_asyncio_task_group.py) |
