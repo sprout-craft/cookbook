@@ -65,3 +65,4 @@ The **Sprout Craft Cookbook** provides clear, minimal, and dependency-conscious 
 | #42 | `DevOps` | **Systemd Service Unit Configuration for Linux Node.js Daemons** | [`42_systemd_node_service.service`](recipes/devops/42_systemd_node_service.service) |
 | #43 | `Algorithms` | **In-Memory Token Bucket Rate Limiter** | [`43_token_bucket_limiter.ts`](recipes/algorithms/43_token_bucket_limiter.ts) |
 | #44 | `Algorithms` | **O(1) LRU Cache via Hash Map & Doubly Linked List** | [`44_lru_cache_doubly_linked.ts`](recipes/algorithms/44_lru_cache_doubly_linked.ts) |
+| #45 | `Algorithms` | **Generic Binary Search with Lower & Upper Bound** | [`45_binary_search_lower_bound.ts`](recipes/algorithms/45_binary_search_lower_bound.ts) |
