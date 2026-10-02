@@ -1,0 +1,33 @@
+/*
+ * Sprout Craft Engineering Cookbook
+ * Recipe #35: CSS Custom Properties Design Tokens
+ */
+
+:root {
+  --color-bg: #ffffff;
+  --color-surface: #f9fafb;
+  --color-border: #e5e7eb;
+  --color-text-primary: #111827;
+  --color-text-secondary: #6b7280;
+  --color-brand: #10b981;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --color-bg: #0b0f19;
+    --color-surface: #111827;
+    --color-border: #1f2937;
+    --color-text-primary: #f9fafb;
+    --color-text-secondary: #9ca3af;
+    --color-brand: #34d399;
+  }
+}
+
+:root[data-theme="dark"] {
+  --color-bg: #0b0f19;
+  --color-surface: #111827;
+  --color-border: #1f2937;
+  --color-text-primary: #f9fafb;
+  --color-text-secondary: #9ca3af;
+  --color-brand: #34d399;
+}
