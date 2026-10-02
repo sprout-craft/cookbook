@@ -42,3 +42,4 @@ The **Sprout Craft Cookbook** provides clear, minimal, and dependency-conscious 
 | #19 | `Node.js` | **Node.js Stream Pipeline with Backpressure & Error Propagation** | [`19_stream_pipeline.js`](recipes/node/19_stream_pipeline.js) |
 | #20 | `Node.js` | **Production Graceful Shutdown Handler for Node.js Services** | [`20_graceful_shutdown.js`](recipes/node/20_graceful_shutdown.js) |
 | #21 | `Node.js` | **Node.js Multi-Core Cluster Worker Orchestration** | [`21_cluster_worker.js`](recipes/node/21_cluster_worker.js) |
+| #22 | `Node.js` | **Async Retry with Full Jitter Exponential Backoff** | [`22_retry_exponential_backoff.js`](recipes/node/22_retry_exponential_backoff.js) |
