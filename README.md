@@ -38,3 +38,4 @@ The **Sprout Craft Cookbook** provides clear, minimal, and dependency-conscious 
 | #15 | `Vue 3` | **Vue 3 useDark Theme Switcher Composable** | [`15_use_dark_mode.ts`](recipes/vue/15_use_dark_mode.ts) |
 | #16 | `Vue 3` | **Vue 3 Stale-While-Revalidate useFetchCache Composable** | [`16_use_fetch_cache.ts`](recipes/vue/16_use_fetch_cache.ts) |
 | #17 | `Vue 3` | **Vue 3 v-focus Custom Directive with Delay Option** | [`17_v_focus_directive.ts`](recipes/vue/17_v_focus_directive.ts) |
+| #18 | `Vue 3` | **Vue 3 v-copy Clipboard Directive** | [`18_v_copy_directive.ts`](recipes/vue/18_v_copy_directive.ts) |
