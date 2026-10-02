@@ -56,3 +56,4 @@ The **Sprout Craft Cookbook** provides clear, minimal, and dependency-conscious 
 | #33 | `Modern CSS` | **Subtle Cross-Browser Custom Scrollbar Styling** | [`33_custom_scrollbar.css`](recipes/css/33_custom_scrollbar.css) |
 | #34 | `Modern CSS` | **Intrinsic Responsive Grid with CSS auto-fit & minmax** | [`34_grid_auto_fit_cards.css`](recipes/css/34_grid_auto_fit_cards.css) |
 | #35 | `Modern CSS` | **CSS Custom Properties Design Tokens with prefers-color-scheme** | [`35_dark_mode_vars.css`](recipes/css/35_dark_mode_vars.css) |
+| #36 | `Modern CSS` | **Zero-Layout-Shift Media Containers with CSS aspect-ratio** | [`36_aspect_ratio_media.css`](recipes/css/36_aspect_ratio_media.css) |

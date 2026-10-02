@@ -1,0 +1,21 @@
+/*
+ * Sprout Craft Engineering Cookbook
+ * Recipe #36: Zero-Layout-Shift Media Containers with CSS aspect-ratio
+ *
+ * Problem: Images without reserved aspect ratio pop in and shift lower page content (hurts Core Web Vitals CLS).
+ */
+
+.media-thumbnail-16-9 {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  background-color: #f3f4f6;
+  border-radius: 0.5rem;
+}
+
+.avatar-circle-1-1 {
+  width: 48px;
+  aspect-ratio: 1 / 1;
+  border-radius: 50%;
+  object-fit: cover;
+}
