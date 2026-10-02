@@ -28,3 +28,4 @@ The **Sprout Craft Cookbook** provides clear, minimal, and dependency-conscious 
 | #05 | `TypeScript` | **Functional Result<T, E> Pattern for Predictable Error Handling** | [`05_result_type.ts`](recipes/typescript/05_result_type.ts) |
 | #06 | `TypeScript` | **Const Assertions & Tuple-to-Union Derivation** | [`06_tuples_to_union.ts`](recipes/typescript/06_tuples_to_union.ts) |
 | #07 | `React` | **Generic React useDebounce Hook with Cancel Support** | [`07_use_debounce.ts`](recipes/react/07_use_debounce.ts) |
+| #08 | `React` | **Type-Safe useLocalStorage Hook with Cross-Tab Sync** | [`08_use_local_storage.ts`](recipes/react/08_use_local_storage.ts) |
