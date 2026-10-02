@@ -50,3 +50,4 @@ The **Sprout Craft Cookbook** provides clear, minimal, and dependency-conscious 
 | #27 | `Python` | **Pydantic V2 Robust Domain Model & Custom Field Validation** | [`27_pydantic_custom_validator.py`](recipes/python/27_pydantic_custom_validator.py) |
 | #28 | `Python` | **Benchmark Timing Context Manager & Decorator** | [`28_context_manager_timer.py`](recipes/python/28_context_manager_timer.py) |
 | #29 | `Python` | **Memory-Efficient Generator Batch Chunker** | [`29_generator_chunker.py`](recipes/python/29_generator_chunker.py) |
+| #30 | `Python` | **Thread-Safe Singleton Decorator with Double-Checked Locking** | [`30_singleton_decorator.py`](recipes/python/30_singleton_decorator.py) |
