@@ -21,3 +21,4 @@ The **Sprout Craft Cookbook** provides clear, minimal, and dependency-conscious 
 
 | ID | Category | Recipe Title | Source |
 |:---|:---|:---|:---|
+| #01 | `TypeScript` | **TypeScript Exhaustive Type Narrowing with assertNever** | [`01_assert_never.ts`](recipes/typescript/01_assert_never.ts) |
