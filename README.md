@@ -41,3 +41,4 @@ The **Sprout Craft Cookbook** provides clear, minimal, and dependency-conscious 
 | #18 | `Vue 3` | **Vue 3 v-copy Clipboard Directive** | [`18_v_copy_directive.ts`](recipes/vue/18_v_copy_directive.ts) |
 | #19 | `Node.js` | **Node.js Stream Pipeline with Backpressure & Error Propagation** | [`19_stream_pipeline.js`](recipes/node/19_stream_pipeline.js) |
 | #20 | `Node.js` | **Production Graceful Shutdown Handler for Node.js Services** | [`20_graceful_shutdown.js`](recipes/node/20_graceful_shutdown.js) |
+| #21 | `Node.js` | **Node.js Multi-Core Cluster Worker Orchestration** | [`21_cluster_worker.js`](recipes/node/21_cluster_worker.js) |
