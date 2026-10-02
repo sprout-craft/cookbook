@@ -58,3 +58,4 @@ The **Sprout Craft Cookbook** provides clear, minimal, and dependency-conscious 
 | #35 | `Modern CSS` | **CSS Custom Properties Design Tokens with prefers-color-scheme** | [`35_dark_mode_vars.css`](recipes/css/35_dark_mode_vars.css) |
 | #36 | `Modern CSS` | **Zero-Layout-Shift Media Containers with CSS aspect-ratio** | [`36_aspect_ratio_media.css`](recipes/css/36_aspect_ratio_media.css) |
 | #37 | `DevOps` | **Hardened Multi-Stage Dockerfile for Node.js Services** | [`37_multi_stage_node.Dockerfile`](recipes/devops/37_multi_stage_node.Dockerfile) |
+| #38 | `DevOps` | **Production Nginx Config for Single Page Applications (SPA)** | [`38_nginx_spa_router.conf`](recipes/devops/38_nginx_spa_router.conf) |
