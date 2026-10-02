@@ -47,3 +47,4 @@ The **Sprout Craft Cookbook** provides clear, minimal, and dependency-conscious 
 | #24 | `Node.js` | **Kubernetes Liveness & Readiness Health Check Endpoint** | [`24_health_check_endpoint.js`](recipes/node/24_health_check_endpoint.js) |
 | #25 | `Python` | **Python 3.11+ Structured Concurrency with asyncio.TaskGroup** | [`25_asyncio_task_group.py`](recipes/python/25_asyncio_task_group.py) |
 | #26 | `Python` | **Thread-Safe In-Memory LRU Cache with Time-to-Live (TTL)** | [`26_lru_cache_ttl.py`](recipes/python/26_lru_cache_ttl.py) |
+| #27 | `Python` | **Pydantic V2 Robust Domain Model & Custom Field Validation** | [`27_pydantic_custom_validator.py`](recipes/python/27_pydantic_custom_validator.py) |
