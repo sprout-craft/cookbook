@@ -31,3 +31,4 @@ The **Sprout Craft Cookbook** provides clear, minimal, and dependency-conscious 
 | #08 | `React` | **Type-Safe useLocalStorage Hook with Cross-Tab Sync** | [`08_use_local_storage.ts`](recipes/react/08_use_local_storage.ts) |
 | #09 | `React` | **Viewport Visibility Hook with IntersectionObserver** | [`09_use_intersection_observer.ts`](recipes/react/09_use_intersection_observer.ts) |
 | #10 | `React` | **Tracking Previous State with usePrevious Hook** | [`10_use_previous.ts`](recipes/react/10_use_previous.ts) |
+| #11 | `React` | **Click Away / Outside Listener Hook** | [`11_use_click_away.ts`](recipes/react/11_use_click_away.ts) |
