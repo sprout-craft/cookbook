@@ -53,3 +53,4 @@ The **Sprout Craft Cookbook** provides clear, minimal, and dependency-conscious 
 | #30 | `Python` | **Thread-Safe Singleton Decorator with Double-Checked Locking** | [`30_singleton_decorator.py`](recipes/python/30_singleton_decorator.py) |
 | #31 | `Modern CSS` | **Responsive Fluid Typography Scale with CSS clamp()** | [`31_fluid_typography.css`](recipes/css/31_fluid_typography.css) |
 | #32 | `Modern CSS` | **Clean & Opinionated Modern CSS Reset** | [`32_modern_css_reset.css`](recipes/css/32_modern_css_reset.css) |
+| #33 | `Modern CSS` | **Subtle Cross-Browser Custom Scrollbar Styling** | [`33_custom_scrollbar.css`](recipes/css/33_custom_scrollbar.css) |
