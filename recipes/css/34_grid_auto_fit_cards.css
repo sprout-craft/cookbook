@@ -1,0 +1,22 @@
+/*
+ * Sprout Craft Engineering Cookbook
+ * Recipe #34: Intrinsic Responsive Grid with auto-fit & minmax
+ *
+ * Problem: Hardcoded breakpoint media queries break when cards reside inside split viewports or sidebars.
+ */
+
+.responsive-card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr));
+  gap: 1.5rem;
+  align-items: stretch;
+}
+
+.responsive-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--card-bg, #ffffff);
+  border: 1px solid var(--card-border, #e5e7eb);
+  border-radius: 0.75rem;
+  padding: 1.25rem;
+}
