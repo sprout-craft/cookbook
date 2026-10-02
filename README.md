@@ -35,3 +35,4 @@ The **Sprout Craft Cookbook** provides clear, minimal, and dependency-conscious 
 | #12 | `React` | **Reactive Responsive Media Query Hook** | [`12_use_media_query.ts`](recipes/react/12_use_media_query.ts) |
 | #13 | `Vue 3` | **Vue 3 Composition API useClickOutside Composable** | [`13_use_click_outside.ts`](recipes/vue/13_use_click_outside.ts) |
 | #14 | `Vue 3` | **Vue 3 useWindowSize Composable with Throttle** | [`14_use_window_size.ts`](recipes/vue/14_use_window_size.ts) |
+| #15 | `Vue 3` | **Vue 3 useDark Theme Switcher Composable** | [`15_use_dark_mode.ts`](recipes/vue/15_use_dark_mode.ts) |
