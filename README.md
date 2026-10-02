@@ -23,3 +23,4 @@ The **Sprout Craft Cookbook** provides clear, minimal, and dependency-conscious 
 |:---|:---|:---|:---|
 | #01 | `TypeScript` | **TypeScript Exhaustive Type Narrowing with assertNever** | [`01_assert_never.ts`](recipes/typescript/01_assert_never.ts) |
 | #02 | `TypeScript` | **Recursive DeepPartial & DeepReadonly Types** | [`02_deep_partial.ts`](recipes/typescript/02_deep_partial.ts) |
+| #03 | `TypeScript` | **Nominal / Branded Types for Domain IDs** | [`03_branded_types.ts`](recipes/typescript/03_branded_types.ts) |
