@@ -46,3 +46,4 @@ The **Sprout Craft Cookbook** provides clear, minimal, and dependency-conscious 
 | #23 | `Node.js` | **Timing-Safe String Comparison & HMAC Token Verification** | [`23_crypto_token_hasher.js`](recipes/node/23_crypto_token_hasher.js) |
 | #24 | `Node.js` | **Kubernetes Liveness & Readiness Health Check Endpoint** | [`24_health_check_endpoint.js`](recipes/node/24_health_check_endpoint.js) |
 | #25 | `Python` | **Python 3.11+ Structured Concurrency with asyncio.TaskGroup** | [`25_asyncio_task_group.py`](recipes/python/25_asyncio_task_group.py) |
+| #26 | `Python` | **Thread-Safe In-Memory LRU Cache with Time-to-Live (TTL)** | [`26_lru_cache_ttl.py`](recipes/python/26_lru_cache_ttl.py) |
