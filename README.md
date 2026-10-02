@@ -36,3 +36,4 @@ The **Sprout Craft Cookbook** provides clear, minimal, and dependency-conscious 
 | #13 | `Vue 3` | **Vue 3 Composition API useClickOutside Composable** | [`13_use_click_outside.ts`](recipes/vue/13_use_click_outside.ts) |
 | #14 | `Vue 3` | **Vue 3 useWindowSize Composable with Throttle** | [`14_use_window_size.ts`](recipes/vue/14_use_window_size.ts) |
 | #15 | `Vue 3` | **Vue 3 useDark Theme Switcher Composable** | [`15_use_dark_mode.ts`](recipes/vue/15_use_dark_mode.ts) |
+| #16 | `Vue 3` | **Vue 3 Stale-While-Revalidate useFetchCache Composable** | [`16_use_fetch_cache.ts`](recipes/vue/16_use_fetch_cache.ts) |
