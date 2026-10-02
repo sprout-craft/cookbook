@@ -61,3 +61,4 @@ The **Sprout Craft Cookbook** provides clear, minimal, and dependency-conscious 
 | #38 | `DevOps` | **Production Nginx Config for Single Page Applications (SPA)** | [`38_nginx_spa_router.conf`](recipes/devops/38_nginx_spa_router.conf) |
 | #39 | `DevOps` | **GitHub Actions CI Matrix Workflow with Caching** | [`39_github_actions_ci.yml`](recipes/devops/39_github_actions_ci.yml) |
 | #40 | `DevOps` | **Local Dev Stack with PostgreSQL 16 & Redis 7 Healthchecks** | [`40_docker_compose_redis_pg.yml`](recipes/devops/40_docker_compose_redis_pg.yml) |
+| #41 | `DevOps` | **Git Pre-Commit Hook to Guard Against Secret Leaks** | [`41_git_pre_commit_hook.sh`](recipes/devops/41_git_pre_commit_hook.sh) |
