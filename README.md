@@ -68,3 +68,4 @@ The **Sprout Craft Cookbook** provides clear, minimal, and dependency-conscious 
 | #45 | `Algorithms` | **Generic Binary Search with Lower & Upper Bound** | [`45_binary_search_lower_bound.ts`](recipes/algorithms/45_binary_search_lower_bound.ts) |
 | #46 | `Algorithms` | **Deep Clone with Circular Reference Resolution** | [`46_deep_clone_cycle.ts`](recipes/algorithms/46_deep_clone_cycle.ts) |
 | #47 | `Algorithms` | **Trie (Prefix Tree) for Fast Autocomplete Search** | [`47_trie_autocomplete.ts`](recipes/algorithms/47_trie_autocomplete.ts) |
+| #48 | `Algorithms` | **Generic Priority Queue via Binary Min-Heap** | [`48_priority_queue_min_heap.ts`](recipes/algorithms/48_priority_queue_min_heap.ts) |
