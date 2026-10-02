@@ -1,0 +1,37 @@
+# Sprout Craft Engineering Cookbook
+# Recipe #42: Systemd Service Unit Configuration for Linux Node.js Daemons
+# Path: /etc/systemd/system/sprout-app.service
+
+[Unit]
+Description=Sprout Craft API Daemon
+After=network.target postgresql.service
+
+[Service]
+Type=simple
+User=www-data
+Group=www-data
+WorkingDirectory=/var/www/sprout-app
+ExecStart=/usr/bin/node dist/index.js
+Restart=always
+RestartSec=5s
+
+# Security sandboxing
+NoNewPrivileges=true
+ProtectSystem=full
+ProtectHome=true
+
+# Resource limits
+LimitNOFILE=65536
+MemoryLimit=1G
+
+# Environment
+Environment=NODE_ENV=production
+Environment=PORT=8080
+
+# Logging
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=sprout-app
+
+[Install]
+WantedBy=multi-user.target
