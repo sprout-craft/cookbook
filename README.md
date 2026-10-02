@@ -66,3 +66,4 @@ The **Sprout Craft Cookbook** provides clear, minimal, and dependency-conscious 
 | #43 | `Algorithms` | **In-Memory Token Bucket Rate Limiter** | [`43_token_bucket_limiter.ts`](recipes/algorithms/43_token_bucket_limiter.ts) |
 | #44 | `Algorithms` | **O(1) LRU Cache via Hash Map & Doubly Linked List** | [`44_lru_cache_doubly_linked.ts`](recipes/algorithms/44_lru_cache_doubly_linked.ts) |
 | #45 | `Algorithms` | **Generic Binary Search with Lower & Upper Bound** | [`45_binary_search_lower_bound.ts`](recipes/algorithms/45_binary_search_lower_bound.ts) |
+| #46 | `Algorithms` | **Deep Clone with Circular Reference Resolution** | [`46_deep_clone_cycle.ts`](recipes/algorithms/46_deep_clone_cycle.ts) |
